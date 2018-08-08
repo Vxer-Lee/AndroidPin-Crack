@@ -49,7 +49,7 @@
 ##### 2、Usage
 
 破解Android6.0锁屏密码方法，提取出手机系统里面的 `gatekeeper.pattern.key` 目录大概是data/system/gatekeeper.pattern.key
->gatekeeper.password.key **(数字密码)**
+>gatekeeper.password.key **(数字密码)**  
 gatekeeper.pattern.key **(手势密码)**
 
 ###### ！！！！！！！！！！！！！！！！需要注意的一点！！！！！！！！！！！！！！！！！！
