@@ -1,4 +1,4 @@
-# **AndroidPin-Crack**
+# **AndroidPin-Crack** #
 ------------------------------------------------------------------------------
 
 破解安卓6.0锁屏密码 手势密码、 PIN密码 、字符数字组合密码的python 脚本
@@ -44,7 +44,7 @@
 ### **Android 6.0(不包含硬加密)锁屏密码暴力破解**
 
 ##### 1、Screenshot
-
+![](assets/demo.gif)
 ##### 2、Usage
 
 破解Android6.0锁屏密码方法，提取出手机系统里面的 `gatekeeper.pattern.key` 目录大概是data/system/gatekeeper.pattern.key
